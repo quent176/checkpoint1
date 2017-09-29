@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkpoint1quent176</string>
+    <string name="inputPrenomString">Prénom</string>
+    <string name="inputNomString">Nom</string>
+    <string name="inputEcoleString">Ecole</string>
+    <string name="inputLangageString">Langage</string>
+    <string name="buttonSendString">Envoyer</string>
+</resources>

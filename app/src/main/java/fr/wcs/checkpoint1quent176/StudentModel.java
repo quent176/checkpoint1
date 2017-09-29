@@ -3,6 +3,9 @@ package fr.wcs.checkpoint1quent176;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+//constructeur qui peut être appelé dans le même module dans d'autres classes
+// avec des arguments privés qui ne peuvent être appelés que dans cette même classe
+
 public class StudentModel implements Parcelable {
     //attributs privés
     private String prenom;
